@@ -112,7 +112,7 @@ const config = {
               // },
               {
                 label: '@大吉山放送部',
-                href: 'weibo.com/6891988385/KAARZljLo',
+                href: 'https://weibo.com/6891988385/KAARZljLo',
               },
             ],
           },
